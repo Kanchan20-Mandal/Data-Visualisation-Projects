@@ -10,10 +10,7 @@ This repository contains all files related to data visualisation:
 • Integrated heatmaps to visualize spatial patterns and correlations between house prices and geographic factors, facilitating deeper analysis of regional disparities and market dynamics.
 
 ## 2. Power BI HR attrition Dashboard 
-• Developed a comprehensive HR attrition dashboard using Power BI, providing 
-stakeholders with a detailed view of employee turnover data. 
-• Utilized Power BI's features to visualize attrition metrics such as turnover rates, 
-reasons for attrition, and demographic breakdowns. 
-• Implemented interactive elements within the dashboard, including filters and 
-drill-down capabilities, to enable users to explore attrition trends and identify 
+• Developed a comprehensive HR attrition dashboard using Power BI, providing stakeholders with a detailed view of employee turnover data. 
+• Utilized Power BI's features to visualize attrition metrics such as turnover rates, reasons for attrition, and demographic breakdowns. 
+• Implemented interactive elements within the dashboard, including filters and drill-down capabilities, to enable users to explore attrition trends and identify 
 key insights.
